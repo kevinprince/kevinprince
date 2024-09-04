@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+I am a Developer Productivity Engineer in Calgary, Alberta with almost 20 years experience.
 
 <!--
 **kevinprince/kevinprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
